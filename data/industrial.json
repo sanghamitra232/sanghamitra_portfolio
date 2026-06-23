@@ -1,0 +1,53 @@
+[
+{
+"id": "aplus-foods",
+"title": "Food Processing Facility Visit",
+"organization": "Aplus Foods Pvt. Ltd.",
+"location": "Nawanshahr, Punjab",
+"year": "2026",
+"image": "/industrial-exposure/plant.png",
+"shortDescription": "Industrial visit focused on HACCP implementation, hygiene zoning, cold chain management, and quality assurance systems.",
+"fullDescription": "Observed end-to-end food processing operations with emphasis on hygiene zoning, sanitation protocols, HACCP implementation, and operational safety practices. Gained practical understanding of cold chain management, storage systems, shelf-life considerations, and quality control measures while studying workflow coordination and food safety management within a commercial processing facility.",
+"keyLearnings": [
+"HACCP implementation and food safety systems",
+"Cold chain management and storage practices",
+"Quality control and sanitation procedures",
+"Operational safety and production workflow management"
+],
+"audio": "/audios/aplus.mp3"
+},
+{
+"id": "cremica-english-oven",
+"title": "Industrial Bakery Processing Visit",
+"organization": "Cremica & English Oven (Mrs. Bectors Food Specialities Ltd.)",
+"location": "Phillaur, Punjab",
+"year": "2025",
+"image": "/industrial-exposure/lab.png",
+"shortDescription": "Explored large-scale bakery manufacturing operations including dough preparation, baking, cooling, slicing, and packaging processes.",
+"fullDescription": "Gained exposure to industrial bakery production systems covering dough preparation, proofing, baking, cooling, slicing, and packaging operations. Observed automated processing equipment, industrial ovens, dough handling systems, and modern packaging technologies while understanding workflow coordination, production efficiency, and quality assurance practices in large-scale bakery manufacturing.",
+"keyLearnings": [
+"Industrial bakery production workflow",
+"Automated dough handling and baking systems",
+"Packaging technologies and process efficiency",
+"Quality assurance in bakery operations"
+],
+"audio": "/audios/lab-visit.mp3"
+},
+{
+"id": "bd-agro-foods",
+"title": "Vegetable Processing Plant Visit",
+"organization": "BD Agro Foods",
+"location": "Kapurthala, Punjab",
+"year": "2025",
+"image": "/industrial-exposure/bd-agro-foods.png",
+"shortDescription": "Industrial exposure to vegetable processing operations including cleaning, grading, blanching, storage, and packaging systems.",
+"fullDescription": "Observed large-scale vegetable processing operations from raw material intake to final packaging. Studied cleaning, grading, blanching, storage, and packaging processes while gaining insight into plant layout, equipment maintenance, workflow organization, and operational efficiency. The visit also highlighted the importance of hygiene practices, raw material handling, and production system management within a food processing environment.",
+"keyLearnings": [
+"Vegetable processing and blanching operations",
+"Plant layout and workflow organization",
+"Equipment maintenance practices",
+"Industrial hygiene and raw material handling"
+],
+"audio": "/audios/bdagro.mp3"
+}
+]

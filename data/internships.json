@@ -1,0 +1,35 @@
+[
+  {
+    "id": "hemp-internship",
+    "title": "Product Development Consultancy Intern",
+    "company": "Hemp Essence",
+    "companyLogo": "/internships/hemp-essence.png",
+    "duration": "October 2025 - April 2026",
+    "location": "Punjab, India",
+    "description": "Contributed to the development of hemp-based protein bars and protein powders, focusing on nutritional quality, sensory appeal, and shelf-life stability. Led a team of three during ingredient selection, formulation trials, and product standardization activities. Participated in product testing, documentation, and optimization to improve consistency and market readiness. Gained hands-on experience in food product development while ensuring compliance with food safety and quality standards.",
+    "audio": "/audios/hemp-essence.mp3",
+    "tags": ["QC", "HACCP", "Sensory Evaluation", "Audit"]
+  },
+  {
+    "id": "qc-internship",
+    "title": "Quality Control Intern",
+    "company": "Kalra Food Industry",
+    "companyLogo": "/internships/qc-company.png",
+    "duration": "July 2025",
+    "location": "Punjab, India",
+    "description": "Hands-on QA inspection across production lines. Conducted microbiological testing, maintained HACCP logs, and assisted in preparation for third-party audits. Reduced documentation lag by 30% through process restructuring.",
+    "audio": "/audios/qc-internship.mp3",
+    "tags": ["QA", "HACCP", "Microbiology", "Audit"]
+  },
+  {
+    "id": "ngo-volunteer",
+    "title": "Student Volunteer",
+    "company": "Just Be Friendly (JBF) NGO",
+    "companyLogo": "/internships/ngo.png",
+    "duration": "June 2024 - July 2024",
+    "location": "Assam, India",
+    "description": "Coordinated ABC drives and awareness campaigns across areas of Guwahati and other rural areas of Assam. Managed volunteer scheduling and created bilingual (Assamese-Hindi) educational materials on food hygiene.",
+    "audio": "/audios/ngo.mp3",
+    "tags": ["Volunteering", "Community", "Corporate Social Responsibility", "Social Impact"]
+  }
+]

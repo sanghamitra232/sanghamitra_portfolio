@@ -1,0 +1,50 @@
+[
+  {
+    "id": "projects",
+    "value": 10,
+    "suffix": "+",
+    "label": "Projects",
+    "emoji": "🚀",
+    "description": "Across food technology, AI, content, and web development"
+  },
+  {
+    "id": "certifications",
+    "value": 6,
+    "suffix": "+",
+    "label": "Certifications",
+    "emoji": "🏆",
+    "description": "HACCP, Lean Six Sigma, Generative AI, and more"
+  },
+  {
+    "id": "github",
+    "value": 7.68,
+    "suffix": "",
+    "label": "CGPA",
+    "emoji": "💻",
+    "description": "Consistency and growth in academic performance"
+  },
+  {
+    "id": "languages",
+    "value": 4,
+    "suffix": "",
+    "label": "Languages",
+    "emoji": "🗣️",
+    "description": "English, Hindi, Bengali, Assamese"
+  },
+  {
+    "id": "experience",
+    "value": 1,
+    "suffix": "+",
+    "label": "Year Experience",
+    "emoji": "⚡",
+    "description": "Internships, volunteer work, and product development"
+  },
+  {
+    "id": "products",
+    "value": 3,
+    "suffix": "",
+    "label": "Products Developed",
+    "emoji": "🧪",
+    "description": "From concept to sensory evaluation"
+  }
+]

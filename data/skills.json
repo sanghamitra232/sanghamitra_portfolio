@@ -1,0 +1,110 @@
+[
+  {
+    "id": "food-tech",
+    "title": "Food Technology",
+    "emoji": "🧪",
+    "icon": "GiChemicalDrop",
+    "category": "core",
+    "description": "Deep expertise in food science, quality assurance, HACCP principles, and product development. From bench to market.",
+    "color": "#FF6B6B"
+  },
+  {
+    "id": "quality-assurance",
+    "title": "Quality Assurance",
+    "emoji": "✅",
+    "icon": "MdVerified",
+    "category": "core",
+    "description": "Hands-on QC experience in food manufacturing. Lean Six Sigma certified with process improvement mindset.",
+    "color": "#4ECDC4"
+  },
+  {
+    "id": "ai-workflows",
+    "title": "AI & Prompt Engineering",
+    "emoji": "🤖",
+    "icon": "SiOpenai",
+    "category": "digital",
+    "description": "Generative AI certified. Expert at designing AI-assisted workflows for content, research, and product ideation.",
+    "color": "#45B7D1"
+  },
+  {
+    "id": "video-editing",
+    "title": "Video Editing",
+    "emoji": "🎬",
+    "icon": "MdMovieEdit",
+    "category": "creative",
+    "description": "Professional video editing in DaVinci Resolve. Cinematic storytelling, colour grading, and motion design.",
+    "color": "#96CEB4"
+  },
+  {
+    "id": "three-js",
+    "title": "Research Documentation",
+    "emoji": "🌐",
+    "icon": "SiThreedotjs",
+    "category": "digital",
+    "description": "Building academic/professional reports for research and product demos.",
+    "color": "#FFEAA7"
+  },
+  {
+    "id": "content-creation",
+    "title": "Content Creation",
+    "emoji": "✍️",
+    "icon": "MdCreate",
+    "category": "creative",
+    "description": "Scripting, writing, and producing YouTube and Instagram content for Indian audiences. Culturally resonant storytelling.",
+    "color": "#DDA0DD"
+  },
+  {
+    "id": "data-analysis",
+    "title": "Data Analysis",
+    "emoji": "📊",
+    "icon": "SiIbm",
+    "category": "core",
+    "description": "IBM SPSS, DOE, and Origin Pro for statistical analysis. Applied in food science research and product development.",
+    "color": "#F0E68C"
+  },
+  {
+    "id": "entrepreneurship",
+    "title": "Entrepreneurship",
+    "emoji": "🚀",
+    "icon": "MdRocketLaunch",
+    "category": "digital",
+    "description": "Founded FReSH, a food delivery startup focused on allergen-safe ingredient transparency for Indian markets.",
+    "color": "#FFB347"
+  },
+  {
+    "id": "haccp",
+    "title": "HACCP",
+    "emoji": "🛡️",
+    "icon": "MdSecurity",
+    "category": "core",
+    "description": "Certified in Hazard Analysis Critical Control Points. Applied in food safety management and audit preparation.",
+    "color": "#87CEEB"
+  },
+  {
+    "id": "coding",
+    "title": "Coding & Design",
+    "emoji": "💻",
+    "icon": "SiTypescript",
+    "category": "digital",
+    "description": "C language, Python, and Creo Parametric for web projects. Strong mathematical foundation supporting analytical work.",
+    "color": "#98FB98"
+  },
+  {
+    "id": "canva-design",
+    "title": "Creative Tools",
+    "emoji": "🎨",
+    "icon": "SiCanva",
+    "category": "creative",
+    "description": "Canva, Figma, and Render for visual storytelling. UI/UX sensibility built across multiple projects.",
+    "color": "#FFA07A"
+  },
+  {
+    "id": "multilingual",
+    "title": "Multilingual",
+    "emoji": "🗣️",
+    "icon": "MdLanguage",
+    "category": "creative",
+    "description": "Fluent in English, Hindi, Bengali, and Assamese. Enables culturally nuanced communication across Indian markets.",
+    "color": "#B0C4DE"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "haccp-cert",
+    "title": "HACCP Certification",
+    "issuer": "Lovely Professional University",
+    "year": "2026",
+    "image": "/certificates/haccp.png",
+    "description": "Certified in Hazard Analysis and Critical Control Points, the internationally recognised framework for food safety management.",
+    "color": "#FF6B6B"
+  },
+  {
+    "id": "statistical-analysis",
+    "title": "Statistical Data Analysis",
+    "issuer": "Lovely Professional University",
+    "year": "2025",
+    "image": "/certificates/statistical.png",
+    "description": "Certification covering SPSS, hypothesis testing, ANOVA, regression, and applied statistics for food science research.",
+    "color": "#45B7D1"
+  },
+  {
+    "id": "gen-ai",
+    "title": "Generative AI",
+    "issuer": "Outskill",
+    "year": "2025",
+    "image": "/certificates/gen-ai.png",
+    "description": "Certified in Generative AI principles, prompt engineering, and practical applications for content and product workflows.",
+    "color": "#4ECDC4"
+  },
+  {
+    "id": "food-safety",
+    "title": "Branding & Marketing Skills",
+    "issuer": "Nestlé",
+    "year": "2025",
+    "image": "/certificates/food-safety.png",
+    "description": "Comprehensive certification on personal branding and marketing strategies.",
+    "color": "#96CEB4"
+  },
+  {
+    "id": "content-creation-cert",
+    "title": "Influencer Marketing",
+    "issuer": "Nestlé",
+    "year": "2025",
+    "image": "/certificates/content.png",
+    "description": "Certification in social media strategy and audience analytics for digital platforms.",
+    "color": "#DDA0DD"
+  },
+  {
+    "id": "lean-six-sigma",
+    "title": "Lean Six Sigma",
+    "issuer": "CSSC",
+    "year": "2024",
+    "image": "/certificates/lean-six-sigma.png",
+    "description": "White Belt certification in Lean Six Sigma methodologies for process improvement and waste reduction.",
+    "color": "#FFD700"
+  }
+]

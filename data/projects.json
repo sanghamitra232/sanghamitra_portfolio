@@ -1,0 +1,72 @@
+[
+  {
+    "id": "review-paper",
+    "title": "Literature Review",
+    "year": "2026",
+    "category": "Research",
+    "description": "Conducted an extensive literature review on dairy analogues, examining current innovations, ingredient technologies, nutritional profiles, consumer acceptance, and market trends. Collected, organized, and analyzed secondary research data using statistical tools including IBM SPSS and Origin Pro to identify patterns, research gaps, and emerging opportunities within the alternative dairy sector. The project strengthened skills in scientific literature evaluation, data interpretation, and evidence-based research methodology.",
+    "image": "/projects/fresh.png",
+    "audio": "/audios/review.mp3",
+    "tags": ["Origin Pro", "Research", "Statistical Analysis", "IBM SPSS"],
+    "status": "In Development"
+  },
+  {
+    "id": "fresh",
+    "title": "FReSH",
+    "year": "2026",
+    "category": "Startup Concept",
+    "description": "A food ordering platform enabling ingredient-level filtering for allergen safety and dietary transparency in India's restaurant delivery market. Built with a freemium model: free for consumers, subscription-based for food business operators. Features a community accountability system and restaurant intelligence dashboard.",
+    "image": "/projects/fresh.png",
+    "audio": "/audios/fresh.mp3",
+    "tags": ["Food Tech", "Startup", "AI", "UX"],
+    "link": "https://fresh-no-compromises-on-your-plate.onrender.com/",
+    "status": "In Development"
+  },
+  {
+    "id": "rts-beverage",
+    "title": "RTS Beverage Risk Analysis Video",
+    "year": "2026",
+    "category": "Visual Storytelling",
+    "description": "A comprehensive risk analysis of Ready-To-Serve beverage formulations, examining preservative interactions, pH stability, and microbial safety thresholds. Used Origin Pro for statistical modelling.",
+    "image": "/projects/rts.png",
+    "audio": "/audios/rts.mp3",
+    "tags": ["Video Editing", "Team Management", "Presentation", "Risk Analysis"],
+    "link": "https://drive.google.com/file/d/12ILQThA7lUXA1gYgHJ-NJhjV_Uk699uA/view",
+    "status": "Completed"
+  },
+  {
+    "id": "sr2-labs",
+    "title": "SR² Labs",
+    "year": "2025",
+    "category": "Web Development",
+    "description": "An AI-powered pathogen early warning system concept for food safety in India. Designed to use predictive modelling and supply chain data to flag contamination risks before they become public health crises.",
+    "image": "/projects/sr2labs.png",
+    "audio": "/audios/sr2labs.mp3",
+    "tags": ["AI", "Food Safety", "Coding", "Public Health"],
+    "link": "https://sanghamitra232.github.io/sr2lab/",
+    "status": "AI Software Concept"
+  },
+  {
+    "id": "food-safety-blog",
+    "title": "Blog on Recalls in Bakery and Confectionery Industry",
+    "year": "2025",
+    "category": "Web Development",
+    "description": "A website built on recalls in the bakery and confectionery industry in Indian and the US. This required research about the cause of recalls and the actions taken to prevent them.",
+    "image": "/projects/blog.png",
+    "audio": "/audios/blog.mp3",
+    "tags": ["Blog", "Coding", "Web Development", "Research"],
+    "link": "https://github.com/sanghamitra232/bakery-blog",
+    "status": "Completed"
+  },
+  {
+    "id": "beetroot-chips",
+    "title": "Functional Beetroot Chips",
+    "year": "2024",
+    "category": "Food Product Development",
+    "description": "Developed a functional snack using beetroot as the primary ingredient, optimising for antioxidant retention post-processing. Formulated recipe, conducted shelf-life studies, and performed sensory evaluation with consumer panels.",
+    "image": "/projects/beetroot.png",
+    "audio": "/audios/beetroot.mp3",
+    "tags": ["Product Development", "Food Science", "HACCP", "Sensory Evaluation"],
+    "status": "Completed"
+  }
+]
