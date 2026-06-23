@@ -1,5 +1,6 @@
 export interface PersonalData {
   name: string;
+  intro?: string;
   nickname: string;
   tagline: string;
   bio: string;
