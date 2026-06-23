@@ -51,7 +51,7 @@ export default function HeroSection({ personal }: HeroProps) {
       <video
         ref={videoRef}
         className="absolute inset-0 w-full h-full object-cover opacity-100" style={{ maskImage: 'linear-gradient(to bottom, black 60%, transparent 100%)', WebkitMaskImage: 'linear-gradient(to bottom, black 60%, transparent 100%)' }}
-        src="/avatar/landing page vid.mp4"
+        src="https://drive.google.com/file/d/19VA3cgRr2hQLzu3E35BlRl6pXGreveAF/view"
         autoPlay
         playsInline
         onLoadedData={() => setVideoLoaded(true)}
